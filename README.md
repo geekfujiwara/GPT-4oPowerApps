@@ -47,7 +47,7 @@ https://youtu.be/aCuqqWYoG9s
 * 結果を保存
 * 結果の表示と削除
 
-## OCR2GPT
+## OCR2GPTのまさに「進化版」
 
 [OCR2GPTで実現していたこと](https://github.com/geekfujiwara/OCR2GPT)も、GPT-4oの実現方式でよりシンプルに、精度高く実現できます。
 
