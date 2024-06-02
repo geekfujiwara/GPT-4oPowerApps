@@ -39,15 +39,6 @@ https://youtu.be/aCuqqWYoG9s
 
 # アプリの概要
 
-
-![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/3ef55726-3a6b-4585-a53e-6c1d681a8c6a)
-
-
-```mermaid
-flowchart TD
-    Power Apps 画像説明アプリ --> Power Automate HTTPリクエスト --> Azure OpenAI GPT-4o
-```
-
 ## 機能
 
 * 画像をアップロード
