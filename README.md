@@ -6,6 +6,7 @@
 
 ![image](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/ad45d7b4-eb9b-4e03-9c4c-a9dceabf5e70)
 
+https://x.com/geekfujiwara/status/1797378518676082839
 
 たとえば以下のような利用シーンが考えられます。
 
