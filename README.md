@@ -22,7 +22,7 @@
 
 [YouTubeでの解説](https://youtu.be/aCuqqWYoG9s)
 
-https://youtu.be/aCuqqWYoG9s
+[![Azure OpenAI GPT-4o を活用した画像認識Power Apps アプリ](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/caebc125-3a97-4d83-b966-15d690c7c086)](https://youtu.be/aCuqqWYoG9s)
 
 > [!NOTE]
 > 動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
