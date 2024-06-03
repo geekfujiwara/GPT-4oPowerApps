@@ -11,13 +11,32 @@
 
 （1）保険、カロリー計算と栄養指導
 
+<img width="896" alt="image" src="https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/a65087db-ce30-42cc-8d66-bc87421c15e2">
+
 （2）OCR、画像から情報抽出
+
+![image](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/2ede4a2f-7b38-44c4-bbb8-3baab60de4d9)
 
 （3）プロジェクト、業務フローの改善点指摘
 
+<img width="901" alt="image" src="https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/fafe2e1d-04b5-458b-84ff-b9fb3078e337">
+
 （4）サポートデスク、スクリーンショットからエラー修復
 
+<img width="897" alt="image" src="https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/bb18ae32-8c6e-4204-9867-8b6cd6ae38da">
+
 （5）Webサイト作成
+
+<img width="896" alt="image" src="https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/bc81512b-7058-44c7-b74c-2363804ad328">
+
+作成したWebサイト
+
+<img width="439" alt="image" src="https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/07fa384f-085c-4b75-bd1a-4df4a29a6dee">
+
+（6）作業上の安全管理
+
+![image](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/5079600c-d201-48ce-a4b4-f7e35e1ebbd7)
+
 
 これらは全てこちらのアプリで実現可能です。
 
