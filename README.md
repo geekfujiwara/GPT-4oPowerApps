@@ -6,7 +6,10 @@
 
 ![image](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/ad45d7b4-eb9b-4e03-9c4c-a9dceabf5e70)
 
-https://x.com/geekfujiwara/status/1797378518676082839
+> [!NOTE]
+> 動いたよ、できたよなどのソリューションを利用した感想などはぜひ、[ギークフジワラのX](https://x.com/geekfujiwara/status/1797378518676082839)までお願いいたします！
+
+
 
 たとえば以下のような利用シーンが考えられます。
 
@@ -49,8 +52,7 @@ https://x.com/geekfujiwara/status/1797378518676082839
 
 [![Azure OpenAI GPT-4o を活用した画像認識Power Apps アプリ](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/caebc125-3a97-4d83-b966-15d690c7c086)](https://youtu.be/aCuqqWYoG9s)
 
-> [!NOTE]
-> 動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
+
 
 
 # 参考情報
