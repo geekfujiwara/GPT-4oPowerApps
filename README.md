@@ -82,10 +82,11 @@
 
 ## 前提条件
 
-ソリューションは[リリース](https://github.com/geekfujiwara/GPT-4oPowerApps/releases)からダウンロードできます。
-
+* Power Automate にてプレミアムコネクタであるHTTPコネクタを利用しており、Power Apps Premium ライセンスが必要です。
+* Azure OpenAI Service を利用するのでAzure のサブスクリプションが必要です。
 
 ## インポート方法
+ソリューションは[リリース](https://github.com/geekfujiwara/GPT-4oPowerApps/releases)からダウンロードできます。
 
 [公式ドキュメント](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-export-solutions)を参考にZIPファイル形式のままソリューションをインポートしてください。
 
