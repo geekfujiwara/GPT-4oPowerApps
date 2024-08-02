@@ -82,7 +82,7 @@
 
 ## 前提条件
 
-* Power Automate にてプレミアムコネクタであるHTTPコネクタを利用しており、Power Apps Premium ライセンスが必要です。
+* Power Automate にてプレミアムコネクタであるHTTPコネクタ、生成AIの出力結果の保存先にDataverse を利用しており、Power Apps Premium ライセンスが必要です。
 * Azure OpenAI Service を利用するのでAzure のサブスクリプションが必要です。
 
 ## インポート方法
