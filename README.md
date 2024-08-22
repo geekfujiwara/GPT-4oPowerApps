@@ -11,6 +11,10 @@
 
 
 
+https://github.com/user-attachments/assets/58cd9028-eb5a-4545-ae6a-9b5be3f7221b
+
+
+
 たとえば以下のような利用シーンが考えられます。
 
 （1）保険、カロリー計算と栄養指導
